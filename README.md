@@ -18,7 +18,7 @@
  * Update database credentials
  
  * Update mailtrap credentials - 
- Sign Up [here](https://mailtrap.io/) to get your credentials
+ Sign Up [here](https://mailtrap.io/) to get your mailtrap credentials
  
  * Generate app key
  
