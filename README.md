@@ -1,7 +1,7 @@
 #UMS
- Simple User Management System
+Simple User Management System
   
- ## Installation
+ ##Installation
  * Clone Repo
  * Install packages
  
