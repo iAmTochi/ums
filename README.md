@@ -1,7 +1,7 @@
-#UMS
+# UMS
 Simple User Management System
   
- ##Installation
+ ## Installation
  * Clone Repo
  * Install packages
  
