@@ -14,8 +14,12 @@
  ```bash
  cp .env.example .env
  ```
- 
+
+
+ * Create a database called 'user'
  * Update database credentials
+ ##
+
  
  * Update mailtrap credentials - 
  Sign Up [here](https://mailtrap.io/) to get your mailtrap credentials
@@ -25,6 +29,7 @@
  ```bash
  php artisan key:generate
  ```
+ 
  
  * Run Migrations
  
